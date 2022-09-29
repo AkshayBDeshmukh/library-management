@@ -17,3 +17,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+    
+streamlit run my_app.py --server.port=80
