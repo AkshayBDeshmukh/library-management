@@ -19,4 +19,4 @@ if __name__ == '__main__':
     main()
 
     
-streamlit run app.py --server.gatherUsageStats False
+streamlit run manage.py --server.gatherUsageStats False
